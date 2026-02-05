@@ -1,0 +1,52 @@
+Part 1: Intermediate Level Questions (1–50)
+Focus: Grouping, Aggregations, Filtering, and Conditional Logic.
+1. Total matches played in each tournament edition.
+2. The top 5 teams with the most wins across all editions.
+3. Average first innings score for each tournament edition.
+4. Count how many times each team has won the toss.
+5. Find the maximum wickets lost in the first innings for each team.
+6. Total runs scored in the second innings by 'Australia' across all matches. 
+7. List all unique teams that have won at least one match.
+8. Count matches won by 'Chasing' vs 'Defending'.
+9. Identify tournaments where the average wickets lost per match is greater than 14.
+10. The highest number of overs bowled in any 1st innings.
+11. Categorize matches as 'High Scoring' (>280 runs) or 'Normal'.
+12. Did the toss winner also win the match for India’s matches?
+13. Label matches where a team was 'All Out' (lost 10 wickets) in the 1st innings.
+14. Identify 'Tight' wins where the margin was less than 15 runs in defending matches.
+15. List matches that were 'Short' (less than 40 overs in 1st innings).
+16. Teams that have played more than 60 matches in the dataset.
+17. Matches where Pakistan won and scored above the global average score.
+18. Percentage of matches won by the team batting second.
+19. Details of the match with the highest recorded second innings score.
+20. Teams that played in Tournament 'M092' but never in 'W000'.
+21. Number of matches played by each team as 'Team 1'.
+22. Count of matches for each unique pair of competing teams.
+23. Average runs per over for each tournament.
+24. List matches where the 2nd innings score exceeded 250.
+25. Find the team with the lowest average wickets lost per match.
+26. Count matches where the toss winner chose to bowl first.
+27. Retrieve the top 3 highest scores in the 1st innings ever.
+28. Find tournaments that had more than 50 matches.
+29. Average wickets taken by Australia when they won.
+30. List matches played in the year 1992 (Tournament M092).
+31. Find matches where Team 1 scored between 200 and 220.
+32. Count matches where no result was recorded (Winner is NULL).
+33. Find the tournament with the highest total runs scored.
+34. List teams whose names contain the word 'West'.
+35. Find the margin of victory (Score 1 - Score 2) for all defending wins.
+36. Compare total wins of India vs Pakistan.
+37. Count matches where 1st innings overs were exactly 50.
+38. Find teams that won more than 5 matches in tournament M003.
+39. List matches where 2nd innings wickets lost were less than 2.
+40. Average 2nd innings score for South Africa.
+41. Total wickets lost in the entire tournament 'M099'.
+42. Matches where the 1st innings score was less than 100.
+43. Retrieve the first 5 matches of Tournament 'M096'.
+44. Find the match where the difference between scores was exactly 1 run.
+45. Count matches where Team 1 and Team 2 were from the same continent (Logic based).
+46. List tournaments in descending order of their average score.
+47. Find matches where the 2nd innings score was exactly 0.
+48. Find the highest wickets lost in a match (1st + 2nd innings).
+49. Teams that have a win count between 10 and 20.
+50. Find the match ID with the longest Team 1 name.
