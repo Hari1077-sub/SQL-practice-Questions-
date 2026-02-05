@@ -1,0 +1,52 @@
+Part 2: Advanced Level Questions (51–100)
+Focus: Window Functions, CTEs, Subqueries, and Complex Business Logic.
+51. Rank teams within each tournament based on their highest innings score.
+52. Calculate the running total of wins for Australia ordered by Match ID.
+53. Find the score difference between the current match and the previous match in the same tournament.
+54. Identify the 'Next Winner' for every match in Tournament 'M003' using Lead.
+55. Calculate the moving average of wickets lost over the last 3 matches.
+56. Assign each match to a quartile (1-4) based on the total runs scored.
+57. Identify the first team to win a match in each tournament.
+58. Find the cumulative sum of wickets for each team as they progress through matches.
+59. Compare each team's 1st innings score with their own historical average.
+60. Rank tournaments by their total run productivity using Dense Rank.
+61. Find teams that won more than 10 matches and their overall average score using a CTE.
+62. Use a CTE to filter only the 'Top Score' matches for every tournament.
+63. Calculate the win/loss percentage for India using a CTE.
+64. Find the most frequent toss winner in matches where over 300 runs were scored.
+65. Identify the match with the largest gap between the 1st and 2nd innings scores.
+66. Find matches where both teams were bowled out (lost 10 wickets).
+67. Average run rate for teams that won while defending a score.
+68. Find pairs of teams that played each other in at least 3 different tournaments.
+69. Find the match with the lowest score that still resulted in a 'Defending' win.
+70. Determine the 'Tournament Win Streak' for teams using windowing.
+71. Identify the match with the highest wickets-to-runs ratio.
+72. Find the team with the most toss wins in a single tournament edition.
+73. Use a subquery to find teams that never scored below 150 in Tournament M003.
+74. List the 2nd innings score for the last match of every tournament.
+75. Calculate the percentage contribution of each tournament to the total runs in the dataset.
+76. Find matches where the 2nd innings score was exactly half of the 1st innings score.
+77. Use a self-join to find teams that played the same opponent in back-to-back matches.
+78. Identify matches where the 1st innings wickets lost were greater than the 2nd innings wickets.
+79. Find the tournament with the highest variance in 1st innings scores.
+80. Calculate the 'Chasing Success Rate' for each team.
+81. Find the player of the tournament (mocked by team wins and total runs).
+82. Use a CTE to list teams that won every match they played in a single tournament.
+83. Find matches where the winner was decided in under 20 overs of the 2nd innings.
+84. Identify tournaments where the chasing team won more than 60% of the time.
+85. Find the match where the 1st innings score was exactly the average of that tournament.
+86. List teams that won the toss and the match in at least 5 different tournaments.
+87. Calculate the total wickets taken per run scored in each tournament.
+88. Find the team that lost the most wickets in a tournament they eventually won.
+89. Use window functions to find the 'median' score of each tournament.
+90. Find the 'Defending Margin' (Runs) vs 'Chasing Margin' (Wickets) distribution.
+91. Identify teams that participated in the very first and the very last tournament recorded.
+92. Find the match with the highest combined wicket count in Tournament M092.
+93. Calculate the average score for matches played on 'Weekends' (Theoretical logic).
+94. Find the most 'Consistent' team (lowest standard deviation in scores).
+95. Identify matches where the top 2 teams played each other.
+96. Use a CTE to find the highest partnership (theoretical based on wickets).
+97. List matches where the 1st innings score was over 350.
+98. Identify matches where the winning team lost more wickets than the losing team.
+99. Find the average overs remaining for 'Chasing' wins.
+100. Rank tournaments by the number of 'High Scoring' matches they produced.
